@@ -1,7 +1,7 @@
 # Probabilistic-Segmentation
  Implementation of probabilistic segmentation for robot trajectories.
 
-Corresponding paper can be found for free (COMING SOON), please read for method details.
+Corresponding paper can be found for free [here](https://arxiv.org/abs/2404.18383), please read for method details.
 
 Several methods exist for teaching robots, with one of the most prominent being Learning from Demonstration (LfD). If a primitive skill is demonstrated, it can be immediately encoded. However, demonstrations may be more complex and are required to be broken down into motion primitives. To do this, we apply segmentation to the captured demonstrations. However, we consider multiple modes of interaction in our segmentation, and combine segmented modes probabilistically.
 
