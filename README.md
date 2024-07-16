@@ -13,7 +13,7 @@ If you use the code present in this repository, please cite the following paper:
 ```
 @inproceedings{hertel2023reusable_skills,
   title={A Framework for Learning and Reusing Robotic Skills},
-  author={Hertel, Brendan and Tran, Nhu and Elkoudi, Meriem, and Azadah, Reza},
+  author={Hertel, Brendan and Tran, Nhu and Elkoudi, Meriem and Azadeh, Reza},
   booktitle={21st International Conference on Ubiquitous Robots (UR)},
   year={2024}
 }
